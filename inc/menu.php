@@ -25,7 +25,7 @@
         <nav>
             <ul>
                 <li class="<?php echo $ha; ?>"><a href="/untitled/">Home</a></li>
-                <li class="<?php echo $na; ?>"><a href="">News</a></li>
+                <li class="<?php echo $a; ?>"><a href="">News</a></li>
                 <li class="<?php echo $ma; ?>"><a href="">Media</a></li>
                 <li class="<?php echo $ia; ?>"><a href="">Info</a></li>
                 <li id="about" class="<?php echo $ca; ?>"><a href="">Credits</a></li>
