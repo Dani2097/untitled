@@ -17,8 +17,8 @@
             <label for="InputPassword">Password</label>
             <input class="form-control" id="InputPassword" type="password" placeholder="Password">
         </div>
-        <a href="/untitled/" target="_blank"><-Back</a> <a class="nonsei" href="/untitled/" >non sei
-            registrato?registrati</a><a href="/untitled/inc/login.php" >
+        <a href="/untitled1/" target="_blank"><-Back</a> <a class="nonsei" href="/untitled1/" >non sei
+            registrato?registrati</a><a href="/untitled1/inc/login.php" >
             <button>login</button>
         </a>
 

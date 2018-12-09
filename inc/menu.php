@@ -24,22 +24,18 @@
 
         <nav>
             <ul>
-                <li class="<?php echo $ha; ?>"><a href="/untitled/">Home</a></li>
+                <li class="<?php echo $ha; ?>"><a href="/untitled1/">Home</a></li>
                 <li class="<?php echo $a; ?>"><a href="">News</a></li>
                 <li class="<?php echo $ma; ?>"><a href="">Media</a></li>
                 <li class="<?php echo $ia; ?>"><a href="">Info</a></li>
-                <li id="about" class="<?php echo $ca; ?>"><a href="">Credits</a></li>
-
+                <li id="about" class="<?php echo $ca; ?>"><a href="#" class="credits">Credits</a></li>
             </ul>
-
-
         </nav>
 
-                <form class="search"><a class="asd" href="/untitled/inc/login.php">Login</a>
+                <form class="search">
                     <input type="text" placeholder="search...."
                 </form>
-
-
     </header>
+    <a class="asd" href="/untitled1/inc/login.php">Login</a>
 </div>
 <div class="body">
